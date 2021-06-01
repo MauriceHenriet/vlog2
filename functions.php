@@ -1,4 +1,4 @@
-<?php
+<?php 
 
 /**
  * Crée un résumé pour un article.
